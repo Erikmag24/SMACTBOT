@@ -1,0 +1,8 @@
+pyTelegramBotAPI==4.12.0
+pandas==2.0.3
+influxdb-client==1.26.0
+plotly==5.12.0
+numpy==1.24.4
+Pillow==10.0.0
+reportlab==3.6.0
+qrcode==7.3.1
